@@ -1,9 +1,13 @@
 /*
  * Copyright 2016 Dmytro Nikandrov
  *
+ * The signed right shift operator "x >> y" shifts a bit pattern to the right.
+ * The bit pattern is given by the left-hand operand x, and the number of positions to shift by the right-hand operand y.
+ *
  * The signed right shift operator >> uses 'sign extension':
  * If the value is positive, zeroes are inserted at the higher-order bits;
  * if the value is negative, ones are inserted at the higher-order bits.
+ *
  * ATTENTION: System.out.println() does not show leading zeroes.
  */
 

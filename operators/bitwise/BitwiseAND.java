@@ -1,5 +1,7 @@
 /*
  * Copyright 2016 Dmytro Nikandrov
+ *
+ * The bitwise & operator performs a bitwise AND operation.
  */
 
 

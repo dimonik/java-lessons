@@ -1,5 +1,8 @@
 /*
  * Copyright 2016 Dmytro Nikandrov
+ *
+ * The signed left shift operator "x << y" shifts a bit pattern to the left.
+ * The bit pattern is given by the left-hand operand x, and the number of positions to shift by the right-hand operand y.
  */
 
 

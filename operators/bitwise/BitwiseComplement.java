@@ -1,5 +1,10 @@
 /*
  * Copyright 2016 Dmytro Nikandrov
+ *
+ * The unary bitwise complement operator "~" inverts a bit pattern;
+ * it can be applied to any of the integral types, making every "0" a "1" and every "1" a "0".
+ * For example, a byte contains 8 bits; applying this operator to a value whose bit pattern is "00000000" would 
+ * change its pattern to "11111111".
  */
 
 
